@@ -16,7 +16,16 @@ This is my project submission for the assignment.
 6. Pushed final code to GitHub
 
 ## 🔗 Repository Link
+<<<<<<< HEAD
 [GitHub Repository](https://github.com/YOUR-USERNAME/Teslalandingpage)
 
 ## 🔗 Live Demo (Optional)
 Hosted using GitHub Pages: [View Here](https://your-username.github.io/Teslalandingpage/)
+=======
+[GitHub Repository](https://github.com/
+lokeshtekade77-source/Teslalandingpage)
+
+## 🔗 Live Demo (Optional)
+Hosted using GitHub Pages: [View Here](https://
+lokeshtekade77-source.github.io/Teslalandingpage/)
+>>>>>>> feature-tesla
